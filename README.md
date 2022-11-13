@@ -1,6 +1,6 @@
 ## VAGRANT
 
-$ Cria uma Maquina VM com a ferramenta Vagrant 
+$ Criação de uma Maquina VM com a ferramenta Vagrant 
 
 * Instalado o VirtualBox;
 * Instalação da ferramenta vagrant na maquina local;
