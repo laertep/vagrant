@@ -7,5 +7,5 @@ $ Criação de uma Maquina VM com a ferramenta Vagrant
 * Executar comando vagrant init (criar o documento vagrantfile)
 * Executar o comando vagrant up para subir a VM no provision - VirtualBox.
 
-![image](https://user-images.githubusercontent.com/44216245/201551192-b02455df-dab6-4328-98f5-cd8f719aaf0b.png)
+![image](https://user-images.githubusercontent.com/44216245/201799604-be5cd37b-7ae1-46fa-9351-10bd89ebfdba.png)
 
